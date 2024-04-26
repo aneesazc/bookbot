@@ -1,1 +1,1 @@
-# bookbot
+# Bookbot is book analysing bot
