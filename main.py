@@ -39,7 +39,6 @@ def dict_list(d):
 def sort_on(d):
     return list(d.values())[0]
 
-# Sorts the list of single-key dictionaries in descending order by count
 def sort_dict(d):
     return sorted(d, reverse=True, key=sort_on)
 
